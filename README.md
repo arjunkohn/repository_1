@@ -1,2 +1,4 @@
 # repository_1
-The first repository
+I thought I knew what I was doing - 
+Turns out I didn't.
+Haha
